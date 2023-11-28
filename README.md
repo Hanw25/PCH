@@ -4,7 +4,7 @@ Codes for implementation of PCH
 Functions:
 1. main-function.R: This file includes functions for implementing the proposed method PCH.
 2. sim-function.R: This file includes functions for generating simulated data, tuning, evaluating, and comparison with alternatives.
-3. case-function.R: This file includes functions for real data analyis.
+3. case-function.R: This file includes functions for real data analysis.
 
 Experiments:
 1. simulation.R: This file includes codes to conduct simulations.
